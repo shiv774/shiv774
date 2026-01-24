@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shiv;Undergrad+%40+IIT+Madras;Building+Secure+AI+Ecosystems;Architecting+Scalable+SaaS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi👋,+I'm+Shiv;Undergrad+%40+IIT+Madras;Building+Secure+AI+Ecosystems;Architecting+Scalable+SaaS" alt="Typing SVG" />
 
   <br/>
   <img src="https://komarev.com/ghpvc/?username=shiv774&label=Profile%20Views&color=0e75b6&style=flat" alt="shiv774" />
