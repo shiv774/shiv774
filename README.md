@@ -1,10 +1,54 @@
-# Shiv Shobhit Shukla
+<div align="center">
 
-### Data Science Undergraduate @ IIT Madras
-Full Stack Developer & Data Science Specialist. Architecting scalable SaaS platforms and AI-powered security ecosystems.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shiv;Undergrad+%40+IIT+Madras;Building+Secure+AI+Ecosystems;Architecting+Scalable+SaaS" alt="Typing SVG" />
+
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=shiv774&label=Profile%20Views&color=0e75b6&style=flat" alt="shiv774" />
+
+  <br/> <br/>
+
+  <div align="center">
+    <a target="_blank" href="https://www.java.com">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+    </a>
+    &nbsp;&nbsp;
+    <a target="_blank" href="https://www.python.org">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+    </a>
+    &nbsp;&nbsp;
+    <a target="_blank" href="https://www.typescriptlang.org">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+    </a>
+    &nbsp;&nbsp;
+    <a target="_blank" href="https://reactjs.org">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+    </a>
+    &nbsp;&nbsp;
+    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="50" height="50" />
+    </a>
+    &nbsp;&nbsp;
+    <a target="_blank" href="https://www.mysql.com">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+    </a>
+  </div>
+
+ 
+
+</div>
+
+<br/>
+
+
+
+
+
+
+
+
+ 
 
 ---
-
 ### 💻 Technical Arsenal
 
 <div align="left">
@@ -28,20 +72,20 @@ Full Stack Developer & Data Science Specialist. Architecting scalable SaaS platf
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </div>
 
+
 ---
 
 ### 📊 GitHub Analytics
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shiv774&show_icons=true&theme=midnight-owl&hide_border=true" alt="Shiv's Stats" />
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv774&layout=compact&theme=midnight-owl&hide_border=true" alt="Top Langs" />
-</p> 
-
+</p>
 
 ---
 
-
 ### 🤝 Connect with Me
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/shiv774" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
