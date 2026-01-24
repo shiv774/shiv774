@@ -40,7 +40,26 @@
 <br/>
 
 
+---
 
+### 👨‍💻 About Me
+
+* 🎓 **I’m currently pursuing:** BS Data Science & Applications @ IIT Madras
+* 🚀👔 Professional Experience: founded Innov8Alpha (Innovation & Venture Studio)
+* 👯 **I’m looking to collaborate on:** AI-powered security ecosystems or scalable SaaS platforms
+* 👔 **Ask me about:** Brand Innovation, Startup Architecture, and Full-Stack Development
+* 🧐 **I’m looking for help with:** Building high-performance technical teams for SaaS expansion
+* 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/shiv774) or [Email](mailto:shivshobhitshukla88@gmail.com)
+* ⚡ **Fun fact:** I architect the vision, AI handles the boilerplate.
+
+
+
+
+
+<br/>
+
+
+</div>
 
 
 
